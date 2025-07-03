@@ -36,7 +36,7 @@ table, th, td {
 }
 
 .link-centralizado {
-  display: block;
+  display: inline;
   text-align: center;
   margin-top: 20px; 
   color: rgba(113, 159, 173, 0.750);
