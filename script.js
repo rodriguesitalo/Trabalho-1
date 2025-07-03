@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-  document.getElementById("mensagem").innerText = "Deu Certo!";
+  document.getElementById("mensagem").innerText = "Seja muito bem-vindo!";
 }
