@@ -38,7 +38,7 @@ table, th, td {
 .link-centralizado {
   display: inline;
   text-align: center;
-  margin-top: 20px; 
+  margin-top: 0px; 
   color: rgba(113, 159, 173, 0.750);
 }
 a:hover {
